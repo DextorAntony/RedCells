@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144420884138",
+    "firebase_url": "https://redcells-6d4a9.firebaseio.com",
+    "project_id": "redcells-6d4a9",
+    "storage_bucket": "redcells-6d4a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144420884138:android:a1892661eed2bb34",
+        "android_client_info": {
+          "package_name": "com.redcells"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144420884138-t3669v5hft94cos4v35t5pkq3ln839ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redcells",
+            "certificate_hash": "ac90c8193845a9cb0a6d85eaa9895091a4212849"
+          }
+        },
+        {
+          "client_id": "144420884138-df7q80kklg4vtn6mkcqg9chcrq6mgg9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv90MDX5Py_y7K_gdQATbN291qPMqrQfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144420884138-df7q80kklg4vtn6mkcqg9chcrq6mgg9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
